@@ -1,2 +1,2 @@
 # Demo11
-Demo repo forgit commands demonstration
+Demo repo for git commands demonstration
